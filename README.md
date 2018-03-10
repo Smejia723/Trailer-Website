@@ -1,5 +1,5 @@
 # Trailer-Website
-Udacity project of trailer webite showing off 6 movie with posters and trailers.
+Udacity project of trailer webite showing off 6 movie with posters and trailers. To understand Html, Arrays and Classes in a python aplication.
 
 # License MIT ©
 
