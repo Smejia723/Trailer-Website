@@ -1,5 +1,5 @@
 # Trailer-Website
-Udacity project of trailer webite showing off 6 movie with posters and trailers. To understand Html, Arrays and Classes in a python aplication.
+Udacity project of trailer webite showing off 6 movie with posters and trailers. The project is to understand HTML, Arrays and Classes in a python aplication on how they work together to produce six movie posters. Click on a movie poster to play the trailer.
 
 # Trailer-Website Contents
 project when downloaded should have three file
