@@ -1,6 +1,9 @@
 # Trailer-Website
 Udacity project of trailer webite showing off 6 movie with posters and trailers. To understand Html, Arrays and Classes in a python aplication.
 
+# Running the project
+Download project and click on `entertainment_center.py` to view webpage.
+
 # License MIT ©
 
 Copyright (c) 2017 Smejia723
