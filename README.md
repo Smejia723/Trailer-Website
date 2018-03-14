@@ -4,9 +4,9 @@ Udacity project of trailer webite showing off 6 movie with posters and trailers.
 # Trailer-Website Contents
 project when downloaded should have three file
 
-- entertainment_center.py 
-- media.py 
-- fresh_tomatoes.py 
+- `entertainment_center.py`
+- `media.py` 
+- `fresh_tomatoes.py`
 
 # Running the project
 Download project and click on `entertainment_center.py` to view webpage.
